@@ -3,6 +3,9 @@ state, props, DOM / virtual DOM.
 
 ### Kadima - organization and cooperation (project)
 
+![organização](https://github.com/isaquequadros/React-Teams/assets/35769631/43cdf99c-1247-422f-b918-f127d21d0b52)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
